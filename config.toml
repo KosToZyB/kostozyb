@@ -4,7 +4,7 @@ title = "Konstantin Veselkov, a Software Engineer."
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-53853765-2"
 theme = "hugo-sustain"
 
 [permalinks]
