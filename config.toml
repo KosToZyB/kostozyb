@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "http://kveselkov.me/"
 languageCode = "en-US"
 title = "Konstantin Veselkov, a Software Engineer."
 # Enable comments by entering your Disqus shortname
